@@ -1,0 +1,12 @@
+.footer-section {
+  padding: 20px;
+  background-color: #25294f;
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+footer article {
+  width: 50%;
+}
